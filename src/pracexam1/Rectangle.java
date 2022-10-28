@@ -11,7 +11,7 @@ public interface Rectangle {
     public float compute (float w, float h)
     {
         return (w*h);
-        String area;
+        String area
         System.out.println("Area of rectangle is:"+area);
     }
 
